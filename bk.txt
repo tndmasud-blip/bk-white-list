@@ -1,0 +1,4 @@
+eventapi.capp.bka.sh
+images.capp.bka.sh
+cmsimages.capp.bka.sh
+api.cde.capp.bka.sh
